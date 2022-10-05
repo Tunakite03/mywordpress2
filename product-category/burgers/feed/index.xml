@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Burgers &#8211; Home</title>
+	<atom:link href="https://tunakite03.github.io/mywordpress2/product-category/burgers/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tunakite03.github.io/mywordpress2</link>
+	<description>Just another WordPress site</description>
+	<lastBuildDate>Wed, 05 Oct 2022 03:36:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+
+<image>
+	<url>https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/09/tr-logo-1.png</url>
+	<title>Burgers &#8211; Home</title>
+	<link>https://tunakite03.github.io/mywordpress2</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Pizza-Za Salad</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/pizza-za-salad/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/pizza-za-salad/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:35:50 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=414</guid>
+
+					<description><![CDATA[The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles…]]></description>
+										<content:encoded><![CDATA[The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/pizza-za-salad/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Heated Affair</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/heated-affair/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/heated-affair/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:23:42 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=410</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/heated-affair/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Florentine</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/florentine/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/florentine/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:21:06 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=407</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/florentine/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cheesecake</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/cheesecake/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/cheesecake/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 03:05:46 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=405</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/cheesecake/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cheddar Fries</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/cheddar-fries/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/cheddar-fries/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 02:59:01 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=398</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/cheddar-fries/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>AMERICAN BURGERS</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/alsatian-copy/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/alsatian-copy/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 02:51:04 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=399</guid>
+
+					<description><![CDATA[Dressed with leaf lettuce and tomatoes on a toasted croissant.]]></description>
+										<content:encoded><![CDATA[Dressed with leaf lettuce and tomatoes on a toasted croissant.]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/alsatian-copy/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Alsatian</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/alsatian/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/alsatian/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 05 Oct 2022 02:05:15 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=353</guid>
+
+					<description><![CDATA[The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles…]]></description>
+										<content:encoded><![CDATA[The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/alsatian/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
