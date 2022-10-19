@@ -8,268 +8,152 @@
 	>
 
 <channel>
-	<title>Uncategorized &#8211; Home</title>
+	<title>Uncategorized &#8211; My WordPress</title>
 	<atom:link href="https://tunakite03.github.io/mywordpress2/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tunakite03.github.io/mywordpress2</link>
-	<description>Just another WordPress site</description>
-	<lastBuildDate>Wed, 21 Sep 2022 02:42:04 +0000</lastBuildDate>
+	<description>logo</description>
+	<lastBuildDate>Wed, 19 Oct 2022 04:06:34 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
 
 <image>
-	<url>https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/09/tr-logo-1.png</url>
-	<title>Uncategorized &#8211; Home</title>
+	<url>https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/10/logo-white.png</url>
+	<title>Uncategorized &#8211; My WordPress</title>
 	<link>https://tunakite03.github.io/mywordpress2</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>HuynhTuanKiet</title>
-		<link>https://tunakite03.github.io/mywordpress2/2022/09/21/huynhtuankiet/</link>
+		<title>Đồ ăn nhanh &#8211; 1 lựa chọn cực kì hoàn hảo cho bạn. Because it is better for your life.</title>
+		<link>https://tunakite03.github.io/mywordpress2/do-an-nhanh/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/do-an-nhanh/#respond</comments>
 		
 		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
-		<pubDate>Wed, 21 Sep 2022 01:26:03 +0000</pubDate>
+		<pubDate>Wed, 19 Oct 2022 02:20:15 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?p=264</guid>
+		<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?p=221</guid>
 
-					<description><![CDATA[Begin your amazing adventureA Best Place to Enjoy. Make Your Life Better and Bright! You must trip with Us!Book A RoomA Best Place to Enjoy Your LifeA Best Place to Enjoy. Make Your Life Better and Bright! You must trip with Us!Book A Room Previous Next Adults15Children12345 Check Availability Delicious Food The Varaus Hotel &#038; [&#8230;]]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="264" class="elementor elementor-264">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-01b76ba elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="01b76ba" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f7c9102" data-id="f7c9102" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-849bd39 elementor--h-position-left elementor-widget__width-inherit elementor--v-position-middle elementor-arrows-position-inside elementor-widget elementor-widget-slides" data-id="849bd39" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;arrows&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor-pro - v3.7.1 - 16-05-2022 */
-.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
-			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInLeft">
-				<div class="swiper-wrapper elementor-slides">
-										<div class="elementor-repeater-item-778e75e swiper-slide"><div class="swiper-slide-bg"></div><div class="elementor-background-overlay"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Begin your amazing adventure</div><div class="elementor-slide-description">A Best Place to Enjoy. Make Your Life Better and Bright! You must trip with Us!</div><div  class="elementor-button elementor-slide-button elementor-size-md">Book A Room</div></div></div></div><div class="elementor-repeater-item-9e5218d swiper-slide"><div class="swiper-slide-bg"></div><div class="elementor-background-overlay"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">A Best Place to Enjoy Your Life</div><div class="elementor-slide-description">A Best Place to Enjoy. Make Your Life Better and Bright! You must trip with Us!</div><div  class="elementor-button elementor-slide-button elementor-size-md">Book A Room</div></div></div></div>				</div>
-																				<div class="elementor-swiper-button elementor-swiper-button-prev">
-							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
-						</div>
-						<div class="elementor-swiper-button elementor-swiper-button-next">
-							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
-						</div>
-												</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-f757fc0 elementor-section-height-min-height elementor-section-content-top wr-st4 elementor-section-boxed elementor-section-height-default elementor-section-items-middle wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="f757fc0" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-5bf11f1" data-id="5bf11f1" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-bf42382 elementor-widget elementor-widget-text-editor" data-id="bf42382" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.6 - 15-09-2022 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<input class="calendar-field" type="text" value="Depature Date" placeholder="Arrive Date" />						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-2c48579" data-id="2c48579" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-20de2d6 elementor-widget elementor-widget-text-editor" data-id="20de2d6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<input class="calendar-field" type="text" value="Depature Date" placeholder="Arrive Date" />						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-efa25dc" data-id="efa25dc" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1335ffb elementor-widget elementor-widget-text-editor" data-id="1335ffb" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<div class="hb-form-field-input"><select name="">
-<option value="0">Adults</option>
-<option value="1">1</option>
-<option value="5">5</option>
-</select></div>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-d32ba65" data-id="d32ba65" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b55b28e elementor-widget elementor-widget-text-editor" data-id="b55b28e" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<div class="hb-form-field-input"><select name="">
-<option value="0">Children</option>
-<option value="1">1</option>
-<option value="2">2</option>
-<option value="3">3</option>
-<option value="4">4</option>
-<option value="5">5</option>
-</select></div>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-8bf75bd" data-id="8bf75bd" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-aed9e12 elementor-align-center elementor-widget elementor-widget-button" data-id="aed9e12" data-element_type="widget" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Check Availability</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-8716f49 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="8716f49" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-8eb9590" data-id="8eb9590" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-13b5156 elementor-testimonial--layout-image_above elementor-testimonial--skin-default elementor-testimonial--align-center elementor-arrows-yes elementor-pagination-type-bullets elementor-widget elementor-widget-testimonial-carousel" data-id="13b5156" data-element_type="widget" data-settings="{&quot;slides_per_view&quot;:&quot;3&quot;,&quot;slides_to_scroll&quot;:&quot;1&quot;,&quot;lazyload&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;show_arrows&quot;:&quot;yes&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="testimonial-carousel.default">
-				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://tunakite03.github.io/mywordpress2/wp-content/plugins/elementor-pro/assets/css/widget-carousel.min.css">		<div class="elementor-swiper">
-			<div class="elementor-main-swiper swiper-container">
-				<div class="swiper-wrapper">
-											<div class="swiper-slide">
-									<div class="elementor-testimonial">
-							<div class="elementor-testimonial__content">
-					<div class="elementor-testimonial__text">
-						<b style="color:#000">Delicious Food</b> <br>
-The Varaus Hotel & Resort. The trip was incredible. I got to see so many places I wouldn't have					</div>
-									</div>
-						<div class="elementor-testimonial__footer">
-									<div class="elementor-testimonial__image">
-						<img class="swiper-lazy" data-src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/09/l1.png" alt="">
-													<div class="swiper-lazy-preloader"></div>
-											</div>
-											</div>
-		</div>
-								</div>
-											<div class="swiper-slide">
-									<div class="elementor-testimonial">
-							<div class="elementor-testimonial__content">
-					<div class="elementor-testimonial__text">
-						<b style="color:#000">Delicious Food</b> <br>
-The Varaus Hotel & Resort. The trip was incredible. I got to see so many places I wouldn't have					</div>
-									</div>
-						<div class="elementor-testimonial__footer">
-									<div class="elementor-testimonial__image">
-						<img class="swiper-lazy" data-src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/09/l2.png" alt="">
-													<div class="swiper-lazy-preloader"></div>
-											</div>
-											</div>
-		</div>
-								</div>
-											<div class="swiper-slide">
-									<div class="elementor-testimonial">
-							<div class="elementor-testimonial__content">
-					<div class="elementor-testimonial__text">
-						<b style="color:#000">Delicious Food</b> <br>
-The Varaus Hotel & Resort. The trip was incredible. I got to see so many places I wouldn't have					</div>
-									</div>
-						<div class="elementor-testimonial__footer">
-									<div class="elementor-testimonial__image">
-						<img class="swiper-lazy" data-src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/09/l3.png" alt="">
-													<div class="swiper-lazy-preloader"></div>
-											</div>
-											</div>
-		</div>
-								</div>
-											<div class="swiper-slide">
-									<div class="elementor-testimonial">
-							<div class="elementor-testimonial__content">
-					<div class="elementor-testimonial__text">
-						<b style="color:#000">Delicious Food</b> <br>
-The Varaus Hotel & Resort. The trip was incredible. I got to see so many places I wouldn't have					</div>
-									</div>
-						<div class="elementor-testimonial__footer">
-									<div class="elementor-testimonial__image">
-						<img class="swiper-lazy" data-src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/09/l4.png" alt="">
-													<div class="swiper-lazy-preloader"></div>
-											</div>
-											</div>
-		</div>
-								</div>
-											<div class="swiper-slide">
-									<div class="elementor-testimonial">
-							<div class="elementor-testimonial__content">
-					<div class="elementor-testimonial__text">
-						<b style="color:#000">Delicious Food</b> <br>
-The Varaus Hotel & Resort. The trip was incredible. I got to see so many places I wouldn't have					</div>
-									</div>
-						<div class="elementor-testimonial__footer">
-									<div class="elementor-testimonial__image">
-						<img class="swiper-lazy" data-src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/09/l5.png" alt="">
-													<div class="swiper-lazy-preloader"></div>
-											</div>
-											</div>
-		</div>
-								</div>
-											<div class="swiper-slide">
-									<div class="elementor-testimonial">
-							<div class="elementor-testimonial__content">
-					<div class="elementor-testimonial__text">
-						<b style="color:#000">Delicious Food</b> <br>
-The Varaus Hotel & Resort. The trip was incredible. I got to see so many places I wouldn't have					</div>
-									</div>
-						<div class="elementor-testimonial__footer">
-									<div class="elementor-testimonial__image">
-						<img class="swiper-lazy" data-src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/09/l6.png" alt="">
-													<div class="swiper-lazy-preloader"></div>
-											</div>
-											</div>
-		</div>
-								</div>
-									</div>
-															<div class="swiper-pagination"></div>
-																<div class="elementor-swiper-button elementor-swiper-button-prev">
-							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
-						</div>
-						<div class="elementor-swiper-button elementor-swiper-button-next">
-							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
-						</div>
-												</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-9c32199 elementor-section-boxed elementor-section-height-default elementor-section-height-default wpr-particle-no wpr-jarallax-no wpr-parallax-no wpr-sticky-section-no" data-id="9c32199" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dba2444" data-id="dba2444" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-0b4e0ce elementor-widget elementor-widget-spacer" data-id="0b4e0ce" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.6 - 15-09-2022 */
-.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-container{--container-widget-width:100%}.e-container>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));-ms-flex-item-align:stretch;align-self:stretch;-ms-flex-negative:0;flex-shrink:0}.e-container>.elementor-widget-spacer>.elementor-widget-container,.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-container>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}</style>		<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
+					<description><![CDATA[Đồ ăn nhanh. Đồ ăn nhanh là xu hướng ẩm thực được ưa chuộng trên thế giới, bởi tính tiện lợi, đầy đủ dinh dưỡng của nó. Nhịp sống hiện đại hối hả, công việc bận rộn khiến chúng ta không có thời gian nấu nướng, chế biến món ăn cho từng bữa trong ngày. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<h2 style="box-sizing: inherit; font-size: 2rem; margin-bottom: 0.2em; line-height: 1.2; font-weight: bold; color: #222222; overflow-wrap: break-word; font-family: Lato, sans-serif; letter-spacing: normal; white-space: normal; text-align: left;" title="các loại thức ăn nhanh">Đồ ăn nhanh.</h2>
+<p style="text-align: left;">Đồ ăn nhanh là xu hướng ẩm thực được ưa chuộng trên thế giới, bởi tính tiện lợi, đầy đủ dinh dưỡng của nó. Nhịp sống hiện đại hối hả, công việc bận rộn khiến chúng ta không có thời gian nấu nướng, chế biến món ăn cho từng bữa trong ngày.</p>
+<p style="text-align: left;">Vì vậy, đồ ăn nhanh là sự lựa chọn phù hợp nhất.</p>
+<p><img loading="lazy" class="aligncenter wp-image-259" src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/10/do-an-nhanh-kfc.jpg" alt="" width="786" height="476" /></p>
+<p style="text-align: left;">Ngay ở Việt Nam cũng vậy, guồng quay công việc khiến việc ăn uống không được chú trọng. Trong bài viết này Ông già Ika sẽ đi tìm các món đồ ăn nhanh mà người Việt yêu thích nhất nhé! (các loại thức ăn nhanh). <strong>Đồ ăn nhanh. </strong></p>
+<p style="text-align: left;">Thức ăn nhanh là xu hướng ẩm thực được ưa chuộng trên thế giới, bởi tính tiện lợi, đầy đủ dinh dưỡng của nó. Nhịp sống hiện đại hối hả, công việc bận rộn khiến chúng ta không có thời gian nấu nướng, chế biến món ăn cho từng bữa trong ngày.</p>
+<p style="text-align: left;">Vì vậy, đồ ăn nhanh là sự lựa chọn phù hợp nhất.</p>
+<p style="text-align: left;">Ngay ở Việt Nam cũng vậy, guồng quay công việc khiến việc ăn uống không được chú trọng. Trong bài viết này Ông già Ika sẽ đi tìm các món đồ ăn nhanh mà người Việt yêu thích nhất nhé! (các loại thức ăn nhanh). Bao gồm: <b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">Các thương hiệu</b> đồ ăn nhanh , <b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">Đồ an</b> nhanh <b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">gần đây, </b><b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">Thức</b> ăn nhanh <b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">phổ biến. </b></p>
+<p style="text-align: left;">Ngay ở Việt Nam cũng vậy, guồng quay công việc khiến việc ăn uống không được chú trọng. Trong bài viết này Ông già Ika sẽ đi tìm các món đồ ăn nhanh mà người Việt yêu thích nhất nhé! (các loại thức ăn nhanh).</p>
+<p style="text-align: left;">Bao gồm: <b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">Các thương hiệu</b> đồ ăn nhanh , <b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">Đồ an</b> nhanh <b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">gần đây, </b><b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">Thức</b> ăn nhanh <b style="color: #202124; font-size: 16px; font-family: var( --e-global-typography-text-font-family ), Sans-serif;">phổ biến. </b></p>
+<p style="text-align: left;"><strong>Đồ ăn nhanh </strong>hiện nay đang chiếm ưu thế.</p>
+<h2 style="text-align: left;">Vậy đồ ăn nhanh là gì?</h2>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Đồ ăn nhanh có tên gọi tiếng anh là Fastfood. Đây là những món ăn, thực phẩm hay đồ uống được chế biến nhanh chóng và thưởng thức tại chỗ hoặc gói mang về.</p>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Thông thường, đồ ăn nhanh được chế biến sẵn, khi khách tới mua thì nhà hàng chỉ cần làm nóng hoặc chiên lại trong vài phút là đã có thể phục vụ thực khách.</p>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Bạn đang xem : Các loại <b>đồ ăn nhanh. Đồ ăn nhanh</b> là gì ?</p>
+<p style="text-align: left;">Đồ ăn nhanh được bày bán ở những quán ăn, lề đường, cửa hàng tiện lợi,&#8230; Vì đồ ăn đã được làm chín sẵn nên trông rất ngon, hấp dẫn và đẹp mắt. Fastfood đang trở thành xu hướng tiêu dùng cho những ai có phong cách sống bận rộn.</p>
+<p style="text-align: left;">Đồ ăn nhanh được bày bán ở những quán ăn, lề đường, cửa hàng tiện lợi,&#8230; Vì đồ ăn đã được làm chín sẵn nên trông rất ngon, hấp dẫn và đẹp mắt. Fastfood đang trở thành xu hướng tiêu dùng cho những ai có phong cách sống bận rộn.</p>
+<p style="text-align: left;">Đồ ăn nhanh được bày bán ở những quán ăn, lề đường, cửa hàng tiện lợi,&#8230; Vì đồ ăn đã được làm chín sẵn nên trông rất ngon, hấp dẫn và đẹp mắt. Fastfood đang trở thành xu hướng tiêu dùng cho những ai có phong cách sống bận rộn.</p>
+<h2 style="text-align: left;">Tác hại của đồ ăn nhanh</h2>
+<pre>Thật sự tốt nếu như nó không có diều này.</pre>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Tuy đồ ăn nhanh ngon và tiện lợi nhưng nếu lạm dụng hay lựa chọn không đúng sẽ gây nên một số vấn đề không tốt cho sức khỏe người dùng, cụ thể:</p>
+<ul style="padding-left: 2rem; margin-bottom: 1rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">
+<li>
+<p style="margin-bottom: 1.25rem;">Có thể gây ra tình trạng thừa cân, béo phì.</p>
+</li>
+<li>
+<p style="margin-bottom: 1.25rem;">Làm tăng khả năng mắc bệnh tim mạch, hô hấp, xương khớp và thần kinh.</p>
+</li>
+<li>
+<p style="margin-bottom: 1.25rem;">Ảnh hưởng xấu đến răng, làn da và hệ tiêu hóa.</p>
+</li>
+<li>
+<p style="margin-bottom: 1.25rem;">Có thể gây ra tình trạng thừa cân, béo phì.</p>
+</li>
+</ul>
+<h2 style="text-align: left;">Các món đồ ăn nhanh ngon được người Việt ưa chuộng</h2>
+<h3 style="box-sizing: inherit; margin-top: 0.9em; margin-bottom: 0.9em; line-height: 1.3; color: #3b3939; font-family: Lato, sans-serif; text-align: left;">Xúc xích</h3>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Đứng đầu trong danh sách các món đồ ăn nhanh ngon là sẽ nhớ ngay đến xúc xích. Xúc xích là món ăn nhanh rất tiện lợi và dễ dàng chế biến, có thể chiên, hấp, ăn kèm bánh mì hoặc sandwich.</p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;"><em style="box-sizing: inherit;">Xúc xích là món ăn nhanh quen thuộc của người tiêu dùng Việt Nam\</em></p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Bạn đang xem:  <b style="color: var( --e-global-color-text ); font-family: var( --e-global-typography-text-font-family ), Sans-serif;">Menu</b> <b>đồ an nhanh </b></p>
+<h3 style="box-sizing: inherit; margin-top: 0.9em; margin-bottom: 0.9em; line-height: 1.3; color: #3b3939; font-family: Lato, sans-serif; text-align: left;">Bánh mì</h3>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Nhắc tới ẩm thực Việt Nam, sẽ là thiếu sót nếu như không có cái tên “bánh mì”. Một món ăn nhanh khiến cả thế giới phải thán phục có gì đặc biệt?</p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Lớp vỏ bánh mì giòn rụm, ruột mềm, thơm, bùi lại thêm những món ăn đơn giản kẹp cùng như: trứng, xúc xích, thịt nguội, pate,&#8230;cho chút rau thơm và không thể thiếu tương ớt, tương cà để khiến món bánh mì hấp dẫn hơn.</p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Bánh mì luôn là lựa chọn tuyệt vời cho mọi người khi muốn sở hữu một bữa sáng đủ chất để cung cấp năng lượng cho cả một ngày dài. Chính vì thế, hàng loạt thương hiệu bánh mì đã ra đời để phục vụ nhu cầu ăn uống của khách hàng.</p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Bánh mì luôn là lựa chọn tuyệt vời cho mọi người khi muốn sở hữu một bữa sáng đủ chất để cung cấp năng lượng cho cả một ngày dài. Chính vì thế, hàng loạt thương hiệu bánh mì đã ra đời để phục vụ nhu cầu ăn uống của khách hàng.</p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Bánh mì luôn là lựa chọn tuyệt vời cho mọi người khi muốn sở hữu một bữa sáng đủ chất để cung cấp năng lượng cho cả một ngày dài.</p>
+<p>Đồ ăn nhanh được bày bán ở những quán ăn, lề đường, cửa hàng tiện lợi,&#8230; Vì đồ ăn đã được làm chín sẵn nên trông rất ngon, hấp dẫn và đẹp mắt. Fastfood đang trở thành xu hướng tiêu dùng cho những ai có phong cách sống bận rộn.</p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Chính vì thế, hàng loạt thương hiệu bánh mì đã ra đời để phục vụ nhu cầu ăn uống của khách hàng.</p>
+<p style="text-align: left;"><img loading="lazy" class="alignnone size-full wp-image-228" src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/10/banh-mi-kep-thit.jpg" alt="do an nhanh" width="700" height="500" /></p>
+<p style="text-align: left;">&gt;&gt; Xem thêm: <a href="https://vincom.com.vn/trend/buffet-do-ngot">CHECK-IN NGAY 13+ ĐỊA CHỈ BUFFET ĐỒ NGỌT LÀM DÂN TÌNH MÊ MỆT TẠI TPHCM</a></p>
+<h3 style="box-sizing: inherit; margin-top: 0.9em; margin-bottom: 0.9em; line-height: 1.3; color: #3b3939; font-family: Lato, sans-serif; text-align: left;">Mì ăn liền</h3>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Được coi là niềm tự hào của Việt Nam, mì ăn liền chính là cái tên “chốt sổ” trong danh sách các món đồ ăn nhanh ngon được người Việt Nam ưa chuộng nhất.</p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Bởi mì tôm là món ăn rất phổ biến với giá thành rất rẻ, chỉ từ 4.000 VND là bạn đã có ngay một gói mì tôm để “chống đói” rồi đó.</p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Mì tôm còn được coi là biểu tượng của tuổi trẻ, thời sinh viên ai cũng sẽ chuẩn bị sẵn 1 thùng để ăn dần, vừa no lại vừa ngon.</p>
+<p style="box-sizing: inherit; margin-bottom: 1.5em; color: #3b3939; font-family: Lato, sans-serif; font-size: 16px; text-align: left;">Chỉ cần cho thêm quả trứng, xúc xích hay ăn cùng rau thì hương vị bát mì tôm đã lên một tầm cao mới rồi.</p>
+<p style="text-align: left;">Mì tôm còn được coi là biểu tượng của tuổi trẻ, thời sinh viên ai cũng sẽ chuẩn bị sẵn 1 thùng để ăn dần, vừa no lại vừa ngon. Chỉ cần cho thêm quả trứng, xúc xích hay ăn cùng rau thì hương vị bát mì tôm đã lên một tầm cao mới rồi.</p>
+<h3 style="margin-top: 0px; margin-bottom: 0.625rem; font-weight: 600; line-height: 1.475; font-family: Roboto; font-size: 1.125rem !important; text-align: left;">Bánh kẹp thịt</h3>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Bánh kẹp thịt là đồ ăn nhanh ngon tiết kiệm thời gian chuẩn bị và tiết kiệm chi phí cá nhân mỗi ngày. Bạn có thể dùng bánh mì kẹp thịt, chả hay bánh mì Hy Lạp cuộn thịt gà để thưởng thức.</p>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Lớp bánh mì nóng giòn kết hợp với thịt dai mềm vừa ăn cùng nước sốt đậm đà dùng làm món điểm tâm sáng rất tuyệt vời.</p>
+<p style="text-align: left;">Việc ăn mì nhiều, thường xuyên, sẽ khiến cơ thể không được cung cấp đủ dinh dưỡng, kể cả những gói mỳ cao cấp. Dưới đây là những tác hại của mì tôm có thể gây bệnh cho cơ thể:</p>
+<p style="text-align: left;"><img loading="lazy" class="alignnone wp-image-227 size-full" src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/10/do-an-nhanh-cho-nguoi-ban-ron.jpg" alt="do an nhanh cho nguoi ban ron" width="800" height="533" /></p>
+<p style="text-align: left;">Việc ăn mì nhiều, thường xuyên, sẽ khiến cơ thể không được cung cấp đủ dinh dưỡng, kể cả những gói mỳ cao cấp. Dưới đây là những tác hại của mì tôm có thể gây bệnh cho cơ thể:</p>
+<p style="text-align: left;">Việc ăn mì nhiều, thường xuyên, sẽ khiến cơ thể không được cung cấp đủ dinh dưỡng, kể cả những gói mỳ cao cấp. Dưới đây là những tác hại của mì tôm có thể gây bệnh cho cơ thể:</p>
+<p style="text-align: left;">Việc ăn mì nhiều, thường xuyên, sẽ khiến cơ thể không được cung cấp đủ dinh dưỡng, kể cả những gói mỳ cao cấp. Dưới đây là những tác hại của mì tôm có thể gây bệnh cho cơ thể:</p>
+<p style="text-align: left;">Chất mỡ trong mì tôm thông thường đều thêm chất chống ô xy hóa, nhưng nó chỉ làm chậm tốc độ ô xy hóa, kéo dài thời gian biến mùi của mì tôm. Thời gian dài dung nạp quá nhiều chất chống ô xy hóa sẽ ảnh hưởng xấu tới hệ nội tiết và thúc đẩy lão hóa.</p>
+<h3 style="text-align: left;">Gây ung thư</h3>
+<p style="text-align: left;">Đã có nhiều nghiên cứu đánh giá sự độc hại của mì ăn liền, với các thành phần phụ gia như màu thực phẩm, muối, chất béo bão hòa… ăn mì tôm trong thời gian dài dễ gây táo bón.</p>
+<p style="text-align: left;">phân lưu lại thời gian dài trong đại tràng, cũng là một yếu tố dẫn đến ung thư, nguy cơ nhất là ung thư trực tràng.</p>
+<h3 style="margin-bottom: 0.625rem; font-weight: 600; line-height: 1.475; font-family: Roboto; font-size: 1.125rem !important; text-align: left;">Sữa chua</h3>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Sữa chua là một trong những loại đồ ăn nhanh có nhiều công dụng cho sức khỏe, từ việc có lợi cho tiêu hóa đến làm đẹp cho da. Sữa chua nhìn mềm mịn cùng vị chua đặc trưng,</p>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">có thể dùng trực tiếp hoặc kết hợp với nhiều loại trái cây, rau củ để tăng thêm chất dinh dưỡng.</p>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;"><span style="font-size: revert; color: #6d6d6d; font-family: 'Source Sans Pro', HelveticaNeue-Light, 'Helvetica Neue Light', 'Helvetica Neue', Helvetica, Arial, 'Lucida Grande', sans-serif;">Sữa chua là một trong những chế phẩm từ sữa phổ biến nhất trên thế giới và đã được con người tiêu thụ hàng trăm năm nay. Là loại thực phẩm bổ dưỡng, sữa chua có thể giúp tăng cường một số khía cạnh về sức khỏe của người sử dụng.  </span></p>
+<div class="rich-text" style="text-align: left;">
+<p><a href="https://vinmec.com/vi/tin-tuc/thong-tin-suc-khoe/dinh-duong/thanh-phan-dinh-duong-cua-sua-chua/"><b>Sữa chua</b></a> là một sản phẩm sữa phổ biến được làm dựa trên quy trình lên men sữa của vi khuẩn. Các vi khuẩn được sử dụng để làm sữa chua được gọi là “nền sữa chua”, lên men đường lactose, loại đường tự nhiên có trong sữa.</p>
+<p>Quá trình này tạo ra axit lactic, một chất làm cho protein trong sữa đông lại, tạo cho sữa chua hương vị và kết cấu độc đáo.</p>
+<p><img loading="lazy" class="aligncenter wp-image-226" src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/10/ff1.jpg" alt="do an nhanh" width="1248" height="1248" /></p>
+<p>Sữa chua có thể được làm từ tất cả các loại sữa. Các loại sữa chua được làm từ sữa tách béo được coi là không có chất béo, trong khi những loại được làm từ sữa nguyên chất được coi là đầy đủ chất béo.</p>
+<p>Mì tôm còn được coi là biểu tượng của tuổi trẻ, thời sinh viên ai cũng sẽ chuẩn bị sẵn 1 thùng để ăn dần, vừa no lại vừa ngon.</p>
+<p>Sữa chua nguyên chất không có thêm chất tạo màu là một chất lỏng màu trắng, đặc với hương vị thơm.</p>
+<p>Những loại sữa chua này không tốt cho sức khỏe của người tiêu dùng. Mặt khác, sữa chua nguyên chất không đường mang lại nhiều lợi ích cho sức khỏe.</p>
+<p>Sữa chua nguyên chất không có thêm chất tạo màu là một chất lỏng màu trắng, đặc với hương vị thơm.</p>
+<p>Những loại sữa chua này không tốt cho sức khỏe của người tiêu dùng. Mặt khác, sữa chua nguyên chất không đường mang lại nhiều lợi ích cho sức khỏe.</p>
+<p>Dưới đây là lợi ích sức khỏe đã được khoa học chứng minh của sữa chua.</p>
+<p><iframe loading="lazy" title="Cách làm SỮA CHUA mềm mịn dễ thành công nhất" width="980" height="551" src="https://www.youtube.com/embed/rr2IVwrGioU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+</div>
+<h3 style="margin-bottom: 0.625rem; font-weight: 600; line-height: 1.475; font-family: Roboto; font-size: 1.125rem !important; text-align: left;">Pizza</h3>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Pizza là món đồ ăn nhanh ngon có nguồn gốc xuất xứ từ Ý.</p>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Bánh có đế là bánh mì được nướng trên đá nóng rồi rắc thêm phô mai, sốt cà chua và nhiều loại nhân khác nhau như hải sản, bò, xúc xích, nấm,&#8230; cực hấp dẫn và bắt mắt.</p>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Pizza là món đồ ăn nhanh ngon có nguồn gốc xuất xứ từ Ý. Bánh có đế là bánh mì được nướng trên đá nóng rồi rắc thêm phô mai, sốt cà chua và nhiều loại nhân khác nhau như hải sản, bò, xúc xích, nấm,&#8230; cực hấp dẫn và bắt mắt.</p>
+<p>Pizza là món đồ ăn nhanh ngon có nguồn gốc xuất xứ từ Ý. Bánh có đế là bánh mì được nướng trên đá nóng rồi rắc thêm phô mai, sốt cà chua và nhiều loại nhân khác nhau như hải sản, bò, xúc xích, nấm,&#8230; cực hấp dẫn và bắt mắt.</p>
+<p>Pizza là món đồ ăn nhanh ngon có nguồn gốc xuất xứ từ Ý. Bánh có đế là bánh mì được nướng trên đá nóng rồi rắc thêm phô mai, sốt cà chua và nhiều loại nhân khác nhau như hải sản, bò, xúc xích, nấm,&#8230; cực hấp dẫn và bắt mắt.</p>
+<p style="margin-bottom: 1.25rem; color: #333333; font-family: Roboto; font-size: 17px; text-align: left;">Pizza là món đồ ăn nhanh ngon có nguồn gốc xuất xứ từ Ý. Bánh có đế là bánh mì được nướng trên đá nóng rồi rắc thêm phô mai, sốt cà chua và nhiều loại nhân khác nhau như hải sản, bò, xúc xích, nấm,&#8230; cực hấp dẫn và bắt mắt.</p>
+<p style="text-align: left;"><img loading="lazy" class="alignnone wp-image-230 size-full" src="https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/10/pizza.jpg" alt="do an nhanh" width="860" height="574" /></p>
+<p style="text-align: left;">Pizza là món đồ ăn nhanh ngon có nguồn gốc xuất xứ từ Ý. Bánh có đế là bánh mì được nướng trên đá nóng rồi rắc thêm phô mai, sốt cà chua và nhiều loại nhân khác nhau như hải sản, bò, xúc xích, nấm,&#8230; cực hấp dẫn và bắt mắt.</p>
+<p style="text-align: left;">Thật không may, hầu hết các loại sữa chua hiện nay trên thị trường đều có chứa các thành phần bổ sung, chẳng hạn như đường và hương vị nhân tạo.</p>
+<p style="text-align: left;">Thật không may, hầu hết các loại sữa chua hiện nay trên thị trường đều có chứa các thành phần bổ sung, chẳng hạn như đường và hương vị nhân tạo.</p>
+<p style="text-align: left;"><iframe loading="lazy" src="https://giphy.com/embed/1zkrF3l0RfgapqdySj" width="480" height="350" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p style="text-align: left;">Và đây là tất cả những gì về đồ ăn nhanh, các loại đồ ăn nhanh hiện nay và những nơi đặt đồ ăn nhanh. Cảm ơn các bạn đã theo dõi.</p>
+<p style="text-align: left;">Và đây là tất cả những gì về đồ ăn nhanh, các loại đồ ăn nhanh hiện nay và những nơi đặt đồ ăn nhanh. Cảm ơn các bạn đã theo dõi.</p>
+<p style="text-align: left;">Và đây là tất cả những gì về đồ ăn nhanh, các loại đồ ăn nhanh hiện nay và những nơi đặt đồ ăn nhanh. Cảm ơn các bạn đã theo dõi.</p>
+<p style="text-align: left;">Và đây là tất cả những gì về đồ ăn nhanh, các loại đồ ăn nhanh hiện nay và những nơi đặt đồ ăn nhanh. Cảm ơn các bạn đã theo dõi. Và đây là tất cả những gì về đồ ăn nhanh, các loại đồ ăn nhanh hiện nay và những nơi đặt đồ ăn nhanh. Cảm ơn các bạn đã theo dõi. Và đây là tất cả những gì về đồ ăn nhanh, các loại đồ ăn nhanh hiện nay và những nơi đặt đồ ăn nhanh. Cảm ơn các bạn đã theo dõi.</p>
+<p style="text-align: left;">Xem thêm : <a href="https://tunakite03.github.io/mywordpress2/do-an-nhanh/" data-wplink-url-error="true">https://tunakite03.github.io/mywordpress2/do-an-nhanh/</a></p>
+]]></content:encoded>
 					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/do-an-nhanh/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Hello world!</title>
-		<link>https://tunakite03.github.io/mywordpress2/2022/09/20/hello-world/</link>
-					<comments>https://tunakite03.github.io/mywordpress2/2022/09/20/hello-world/#comments</comments>
+		<link>https://tunakite03.github.io/mywordpress2/hello-world/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
-		<pubDate>Tue, 20 Sep 2022 05:30:00 +0000</pubDate>
+		<pubDate>Wed, 12 Oct 2022 03:28:52 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?p=1</guid>
 
@@ -278,7 +162,7 @@ The Varaus Hotel & Resort. The trip was incredible. I got to see so many places 
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/2022/09/20/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

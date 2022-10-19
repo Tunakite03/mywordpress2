@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Products &#8211; My WordPress</title>
+	<atom:link href="https://tunakite03.github.io/mywordpress2/shop/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tunakite03.github.io/mywordpress2</link>
+	<description>logo</description>
+	<lastBuildDate>Wed, 19 Oct 2022 07:43:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/10/logo-white.png</url>
+	<title>Products &#8211; My WordPress</title>
+	<link>https://tunakite03.github.io/mywordpress2</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Matcha cheese</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/matcha-cheese/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/matcha-cheese/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:43:25 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=300</guid>
+
+					<description><![CDATA[The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles…]]></description>
+										<content:encoded><![CDATA[The EcoSmart Fleece Hoodie full-zip hooded jacket provides medium weight fleece comfort all year around. Feel better in this sweatshirt because Hanes keeps plastic bottles…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/matcha-cheese/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Combo Ultra</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/combo-ultra/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/combo-ultra/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:42:07 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=301</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/combo-ultra/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CoCa Cola</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/coca-cola/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/coca-cola/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:40:58 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=302</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/coca-cola/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Hamburger King</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/hamburger-king/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/hamburger-king/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:37:47 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=304</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/hamburger-king/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Coffee milk</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/coffee-milk/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/coffee-milk/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:36:41 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=303</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/coffee-milk/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Margarita big</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/margarita-big/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/margarita-big/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:35:42 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=291</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/margarita-big/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chicken Boncho</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/chicken-boncho/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/chicken-boncho/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:27:10 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=296</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/chicken-boncho/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cucine Max</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/cucine-max/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/cucine-max/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:25:45 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=292</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/cucine-max/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bonchon Chicken</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/bonchon-chicken/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/bonchon-chicken/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:25:14 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=294</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/bonchon-chicken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Caouchino</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/caouchino/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/caouchino/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:22:40 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=290</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/caouchino/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Pizza Menu &#8211; My WordPress</title>
+	<atom:link href="https://tunakite03.github.io/mywordpress2/product-category/pizza-menu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://tunakite03.github.io/mywordpress2</link>
+	<description>logo</description>
+	<lastBuildDate>Wed, 19 Oct 2022 07:35:42 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.3</generator>
+
+<image>
+	<url>https://tunakite03.github.io/mywordpress2/wp-content/uploads/2022/10/logo-white.png</url>
+	<title>Pizza Menu &#8211; My WordPress</title>
+	<link>https://tunakite03.github.io/mywordpress2</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Margarita big</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/margarita-big/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/margarita-big/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:35:42 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=291</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/margarita-big/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bonchon Chicken</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/bonchon-chicken/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/bonchon-chicken/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 19 Oct 2022 07:25:14 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=294</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/bonchon-chicken/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Margarita</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/margarita/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/margarita/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 15:01:51 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=203</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></description>
+										<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis…]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/margarita/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Pizza-Za Salad</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/pizza-za-salad/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/pizza-za-salad/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 14:31:53 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=197</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/pizza-za-salad/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mare E Monti</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/mare-e-monti/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/mare-e-monti/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Tue, 18 Oct 2022 10:42:24 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=192</guid>
+
+					<description><![CDATA[Dressed with leaf lettuce and tomatoes on a toasted croissant.]]></description>
+										<content:encoded><![CDATA[Dressed with leaf lettuce and tomatoes on a toasted croissant.]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/mare-e-monti/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>American Burgers</title>
+		<link>https://tunakite03.github.io/mywordpress2/product/american-burgers/</link>
+					<comments>https://tunakite03.github.io/mywordpress2/product/american-burgers/#respond</comments>
+		
+		<dc:creator><![CDATA[huynhtuankiet]]></dc:creator>
+		<pubDate>Wed, 12 Oct 2022 03:59:11 +0000</pubDate>
+				<guid isPermaLink="false">https://tunakite03.github.io/mywordpress2/?post_type=product&#038;p=97</guid>
+
+					<description><![CDATA[Dressed with leaf lettuce and tomatoes on a toasted croissant.]]></description>
+										<content:encoded><![CDATA[Dressed with leaf lettuce and tomatoes on a toasted croissant.]]></content:encoded>
+					
+					<wfw:commentRss>https://tunakite03.github.io/mywordpress2/product/american-burgers/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
