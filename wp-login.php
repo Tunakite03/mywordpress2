@@ -60,7 +60,7 @@ if ( typeof wpOnload === 'function' ) { wpOnload() }</script>
 <script src="https://tunakite03.github.io/mywordpress2/wp-includes/js/jquery/ui/mouse.min.js?ver=1.13.1" id="jquery-ui-mouse-js"></script>
 <script src="https://tunakite03.github.io/mywordpress2/wp-includes/js/jquery/ui/slider.min.js?ver=1.13.1" id="jquery-ui-slider-js"></script>
 <script src="https://tunakite03.github.io/mywordpress2/wp-content/plugins/woocommerce/assets/js/jquery-ui-touch-punch/jquery-ui-touch-punch.min.js?ver=7.0.0" id="wc-jquery-ui-touchpunch-js"></script>
-<script id="wpc-filter-everything-js-extra">var wpcFilterFront = {"ajaxUrl":"https:\/\/tunakite03.github.io\/mywordpress2\/wp-admin\/admin-ajax.php","wpcAjaxEnabled":"","wpcStatusCookieName":"wpcContainersStatus","wpcMoreLessCookieName":"wpcMoreLessStatus","wpcHierarchyListCookieName":"wpcHierarchyListStatus","wpcWidgetStatusCookieName":"wpcWidgetStatus","wpcMobileWidth":"768","showBottomWidget":"no","_nonce":"12a4a615ea","wpcPostContainers":{"default":"#primary"},"wpcAutoScroll":"","wpcAutoScrollOffset":"150","wpcWaitCursor":"1","wpcPostsPerPage":[],"wpcUseSelect2":"","wpcPopupCompatMode":"","wpcApplyButtonSets":[],"wpcQueryOnThePageSets":[]};</script>
+<script id="wpc-filter-everything-js-extra">var wpcFilterFront = {"ajaxUrl":"https:\/\/tunakite03.github.io\/mywordpress2\/wp-admin\/admin-ajax.php","wpcAjaxEnabled":"","wpcStatusCookieName":"wpcContainersStatus","wpcMoreLessCookieName":"wpcMoreLessStatus","wpcHierarchyListCookieName":"wpcHierarchyListStatus","wpcWidgetStatusCookieName":"wpcWidgetStatus","wpcMobileWidth":"768","showBottomWidget":"no","_nonce":"181ac72aa8","wpcPostContainers":{"default":"#primary"},"wpcAutoScroll":"","wpcAutoScrollOffset":"150","wpcWaitCursor":"1","wpcPostsPerPage":[],"wpcUseSelect2":"","wpcPopupCompatMode":"","wpcApplyButtonSets":[],"wpcQueryOnThePageSets":[]};</script>
 <script src="https://tunakite03.github.io/mywordpress2/wp-content/plugins/filter-everything/assets/js/filter-everything.min.js?ver=1.7.1" id="wpc-filter-everything-js"></script>
 <script id="zxcvbn-async-js-extra">var _zxcvbnSettings = {"src":"https:\/\/tunakite03.github.io\/mywordpress2\/wp-includes\/js\/zxcvbn.min.js"};</script>
 <script src="https://tunakite03.github.io/mywordpress2/wp-includes/js/zxcvbn-async.min.js?ver=1.0" id="zxcvbn-async-js"></script>
@@ -76,7 +76,7 @@ wp.i18n.setLocaleData( { 'text directionltr': [ 'ltr' ] } );
 <script src="https://tunakite03.github.io/mywordpress2/wp-includes/js/underscore.min.js?ver=1.13.3" id="underscore-js"></script>
 <script id="wp-util-js-extra">var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wp-admin\/admin-ajax.php"}};</script>
 <script src="https://tunakite03.github.io/mywordpress2/wp-includes/js/wp-util.min.js?ver=6.0.3" id="wp-util-js"></script>
-<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"65c74d25c5"};</script>
+<script id="user-profile-js-extra">var userProfileL10n = {"user_id":"0","nonce":"14cf0f7c4f"};</script>
 <script src="https://tunakite03.github.io/mywordpress2/wp-admin/js/user-profile.min.js?ver=6.0.3" id="user-profile-js"></script>
 	<div class="clear"></div>
 	</body>
