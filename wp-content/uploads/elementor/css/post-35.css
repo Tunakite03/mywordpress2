@@ -61,14 +61,13 @@
     opacity: 1;
     visibility: visible;
 } 
-.wrapimgs3 .wpcp-prev-button{
+.wrapimgs3 .wpcp-prev-button,.wpcp-next-button {
     display: none;
-     
 }
-.wrapimgs3 .wpcp-prev-button i{
+.wrapimgs3 .wpcp-prev-button,.wpcp-next-button i{
      font-weight: 400;
 }
-.wrapimgs3:hover .wpcp-prev-button {
+.wrapimgs3:hover .wpcp-prev-button{
     display: block;
     background-color: #fff !important;
 border-radius: 50%;
@@ -77,6 +76,16 @@ height: 40px;
 text-align: center;
 align-items: center;
 padding: 5px;
+}
+.wrapimgs3:hover .wpcp-next-button{
+    border-radius: 50%;
+    display: block;
+    background-color: #fff !important;
+    width: 40px;
+height: 40px;
+padding-right:13px;
+padding-top: 5px;
+align-items: center;
 }/* End custom CSS */
 /* Start custom CSS for theme-post-featured-image, class: .elementor-element-24ea5ad0 *//*.wrapimgs4  img {*/
     -webkit-transition: all 1s ease; /* Safari and Chrome */
@@ -119,9 +128,18 @@ padding: 5px;
 /* Start custom CSS for heading, class: .elementor-element-b601344 */.wraps62 .s62 .elementor-widget-container{
  clip-path: polygon(11% 0,100% 0,89% 100%,0 100%);
 }/* End custom CSS */
-/* Start custom CSS for section, class: .elementor-element-c45e6aa */.wrapimgs3{
-    
+/* Start custom CSS for section, class: .elementor-element-c45e6aa */.wrapslidepro .ht-products .ht-product .ht-product-inner{
+    border-radius: 50px;
 }/* End custom CSS */
 /* Start custom CSS for section, class: .elementor-element-94b59b9 */.hover_red .elementor-widget-container h2:hover {
     color: #f1252b !important;
+}/* End custom CSS */
+/* Start custom CSS */#brave_popup_309__step__0 .brave_popup__step__desktop .brave_popup__close svg{
+        background: #fff;
+    border-radius: 50%;
+}
+#brave_popup_309__step__0 #brave_element--NEkrMpVy9OGWTBdieS- input{
+    background-color: transparent!important;
+    text-align: center;
+   
 }/* End custom CSS */
